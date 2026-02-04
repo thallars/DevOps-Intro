@@ -33,4 +33,24 @@ In DevOps workflows where multiple team members collaborate on code, commit sign
 
 ## Task 2 — PR Template & Checklist
 
-### 2.1 
+### 2.1 PR Template Evidence
+
+![](pr_template.png)
+
+![](template_location.png)
+
+### 2.1 PR Template Benefits
+
+PR templates improve collaboration by:
+
+1. Standardization - Ensures all PRs contain necessary information
+
+2. Efficiency - Reduces back-and-forth questions between developers and reviewers
+
+3. Completeness - Checklist ensures common quality gates are addressed
+
+4. Consistency - Creates predictable PR structure across the team
+
+## Challenges
+
+1. Initially had Authentication Key set-up on GitHub and tried to use it for signing, while separate keys are needed for authentication and signing.
